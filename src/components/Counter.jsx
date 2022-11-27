@@ -8,6 +8,7 @@ const Counter = () => {
       <button className="btn btn-dark mx-3 btn-lg">Artır</button>
       <button className="btn btn-danger mx-3 btn-lg">Resetle</button>
       <button className="btn btn-dark mx-3 btn-lg">Azalt</button>
+      
     </div>
   );
 };
